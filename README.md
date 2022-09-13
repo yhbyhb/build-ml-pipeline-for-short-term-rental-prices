@@ -3,6 +3,7 @@
 **NOTE**
 This is my personal result of Udacity nanodegree project of MLOps Nanodegree. 
  - My W&B for the project https://wandb.ai/yhbyhb/nyc_airbnb
+ - My Github repo https://github.com/yhbyhb/build-ml-pipeline-for-short-term-rental-prices
 
 Below sections are original instructions of this project.
 
